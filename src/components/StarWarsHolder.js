@@ -34,7 +34,7 @@ export default function StarWarsContainer(){
                             height={data.height}
                             birthyear={data.birth_year}
                              />
-                : <div> Oops one second </div>}
+                : <div> Got em </div>}
         </div>
     )
 } 
